@@ -4,11 +4,17 @@
 /* Describes a low battery */
 "Low Battery" = "Niedriger Batteriestatus";
 
+/* Describes a functioning transmitter */
+"OK" = "OK";
+
+/* invlid config error description */
+"Peripheral command was invalid" = "Peripherie Befehl war ungültig";
+
 /* Timeout error description */
-"Peripheral did not respond in time" = "Peripheres Gerät antwortet nicht rechtzeitig";
+"Peripheral did not respond in time" = "Peripherie antwortet nicht rechtzeitig";
 
 /* Not ready error description */
-"Peripheral isnʼt connected" = "Peripheres Gerät ist nicht verbunden";
+"Peripheral isnʼt connected" = "Peripherie ist nicht verbunden";
 
 /* The description of sensor calibration state when sensor calibration is ok. */
 "Sensor calibration is OK" = "Sensorkalibrierung ist OK";
@@ -27,3 +33,4 @@
 
 /* Error description */
 "Unknown characteristic" = "Unbekannte Charakteristik";
+

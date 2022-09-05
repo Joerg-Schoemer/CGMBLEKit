@@ -1,0 +1,12 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "";
+
+/* Bundle name */
+"CFBundleName" = "";
+
+/* Privacy - Bluetooth Always Usage Description */
+"NSBluetoothAlwaysUsageDescription" = "Bluetooth wird verwendet, um mit Geräten zur kontinuierlichen Glukoseüberwachung zu kommunizieren";
+
+/* Privacy - Bluetooth Peripheral Usage Description */
+"NSBluetoothPeripheralUsageDescription" = "Bluetooth wird verwendet, um mit Geräten zur kontinuierlichen Glukoseüberwachung zu kommunizieren";
+
